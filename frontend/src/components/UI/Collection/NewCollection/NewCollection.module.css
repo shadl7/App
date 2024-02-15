@@ -1,0 +1,23 @@
+.new_collection {
+    border: black solid 1px;
+    height: 100px;
+    margin: 0 4px 20px 4px;
+    padding: 10px;
+    border-radius: 10px;
+    background: lightcoral;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right_side {
+    border: black solid 1px;
+    margin: 0 4px 20px 4px;
+    padding: 10px;
+    border-radius: 10px;
+    background: lightgoldenrodyellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}

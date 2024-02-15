@@ -1,0 +1,15 @@
+.popup {
+    display: flex;
+    border: black solid 1px;
+    background: #EEEEEE;
+}
+.name {
+    vertical-align: center;
+    border: transparent solid 1px;
+    border-radius: 10px;
+    padding: 2px;
+    font-size: 32px;
+}
+.header {
+    display: flex;
+}

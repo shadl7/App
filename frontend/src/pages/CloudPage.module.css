@@ -1,0 +1,10 @@
+.cloud_page {
+    height: 99vh;
+}
+.cloud_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0 0 0;
+}
